@@ -5,17 +5,13 @@
 class Translation(object):
     
     START_TEXT = """<b>Hai {}!!</b>
-<i>Am Just A Simple Hand Auto Filter Bot_ Bot For Searching Files From Channel...
-
-Just Sent Any Text I Will Search In All Connected Chat And Reply You With The Message link
-
-You Can Even Connected To 3 Channels At A Time...</i>"""    
+<i>ഹായ് ഞാൻ ഒരു പാവം ഓട്ടോഫിൽറ്റർ ബോട്ട് അന്ന് ...</i>"""    
     
     HELP_TEXT = """<i><u>Usage Guide</u></i>
 
 <i>=> Add Bot To Any Channel As Admin With Add Members/ Invite Users Via Link
 
-=> Copy Channel ID
+=> need your channel id
 
 => Use <code>/connect {channel id}</code> In Your Group To Connect With The Group
 
@@ -31,6 +27,8 @@ Just Send Any Text Will Try To Lookup In Channel And Provide You The Link</i>
     ABOUT_TEXT = """<b>➥ Name</b> : <code>Adv Auto Filter Bot</code>
 
 <b>➥ Creator</b> : <b><i><a herf="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+
+<b>➥ Edited</b>: @uniunioo
 
 <b>➥ Language</b> : <code>Python3</code>
 
